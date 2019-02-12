@@ -12,6 +12,6 @@ the happy life of maoge
 ##### chapter14:使用css美化细节
 ##### chapter15:css美化版本通知网页
 
-##part2 servlet+jsp
+## part2 servlet+jsp
 
 ##### chapter17:Java Project演示java语言顺序结构、选择结构、循环结构
