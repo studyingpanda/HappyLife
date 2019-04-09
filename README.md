@@ -31,5 +31,5 @@ chapter21:Servlet接收浏览器输入参数
 
 ### part3 Servlet版新闻网站开发实战
 
-chapter22:Servlet版新闻网站之前端样式编码
+chapter26:Servlet版新闻网站之前端样式编码
 
