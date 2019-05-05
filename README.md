@@ -33,4 +33,4 @@ chapter21:Servlet接收浏览器输入参数
 
 chapter26:Servlet版新闻网站之前端样式编码
 
-chapter26:Servlet版新闻网站之接受用户页面请求
+chapter27:Servlet版新闻网站之接受用户页面请求
